@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="vestel_scale" location="C:/Users/user/workspace/vestel_scale" platform="C:/Users/user/workspace/system_vestel/export/system_vestel/system_vestel.xpfm" platformUID="xilinx:sp701::0.0(custom)" systemProject="vestel_scale_system" sysConfig="system_vestel" runtime="C/C++" cpu="standalone_domain" cpuInstance="microblaze_0" os="standalone" mssSignature="c13d09a419ccc3a8b181a5e4afdf5762">
+  <configuration name="Debug" id="xilinx.gnu.mb.exe.debug.522095026">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.mb.exe.release.1882974191" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="empty_application"/>
+</sdkproject:SdkProject>
